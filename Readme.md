@@ -25,7 +25,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -58,7 +58,7 @@
 ###
 
 <h2 align="left">📈 Github Analytics:</h2>
-<p align="left">
+<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=oanapintoiu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanapintoiu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
@@ -69,4 +69,6 @@
 
 | Project                 | Status       | Description                  | Technologies    | 
 |-------------------------|--------------|------------------------------|-----------------|
+
+###
 
