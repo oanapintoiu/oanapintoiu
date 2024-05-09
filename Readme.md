@@ -4,7 +4,7 @@
 
 <p align="left">My name is Oana (Wah'nah) and I'm a software developer with a background in transformational project management, from London.</p>
 <p align="left">Connect with me:</p>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oanapintoiu)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oanapintoiu)
 
 ###
 
