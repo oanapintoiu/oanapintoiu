@@ -3,7 +3,6 @@
 ###
 
 <p align="left">My name is Oana (Wah'nah) and I'm a software developer with a background in transformational project management, from London.</p>
-<p align="left">Connect with me:</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/oanapintoiu">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -14,7 +13,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👩 About me:</h2>
 
 ###
 
@@ -22,7 +21,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 I code with:</h2>
 
 ###
 
@@ -58,7 +57,7 @@
 
 ###
 
-<h2 align="left">Github Analytics:</h2>
+<h2 align="left">📈 Github Analytics:</h2>
 <p align="left">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=oanapintoiu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanapintoiu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
@@ -66,4 +65,8 @@
 
 ###
 
+<h2 align="left">📁 Projects:</h2>
+
+| Project                 | Status       | Description                  | Technologies    | 
+|-------------------------|--------------|------------------------------|-----------------|
 
