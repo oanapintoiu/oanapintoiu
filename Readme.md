@@ -3,6 +3,8 @@
 ###
 
 <p align="left">My name is Oana (Wah'nah) and I'm a software developer with a background in transformational project management, from London.</p>
+<p align="left">Connect with me:</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oanapintoiu)
 
 ###
 
@@ -14,6 +16,8 @@
 
 ###
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oanapintoiu)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/oanapintoiu/count.svg?"  />
+</div>
 
 ###
