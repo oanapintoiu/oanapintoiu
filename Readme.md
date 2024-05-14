@@ -6,7 +6,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/oanapintoiu">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
 </div>
 
 
@@ -19,6 +18,16 @@
 
 <p align="left">✨ Creating bugs since 2023.<br>📚 Currently delving deeper into Javascript...<br>📚... and having fun with CSS.<br>🎯 Goals: Create more, break less.<br>🎲 Fun fact: Led a well-being team serving 4.5k employees.</p>
 
+###
+
+<h2 align="left">👩‍💻 Currently working on:</h2>
+
+  <a href="https://www.freecodecamp.org/opin">
+   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" width="auto" height="30" alt="freeccodecamp logo" />   
+       </a>
+     <img src="https://img.shields.io/freecodecamp/points/opin" width="auto" height="30" alt="freeccodecamp logo" /> 
+  </a>
+  
 ###
 
 <h2 align="left">💻 I code with:</h2>
