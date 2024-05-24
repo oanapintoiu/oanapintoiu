@@ -55,8 +55,9 @@
 
 <h2 align="left">📈 Github Analytics:</h2>
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=oanapintoiu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oanapintoiu&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oanapintoiu&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />Ï
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oanapintoiu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oanapintoiu&radius=16&theme=react&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </p>
 
 ###
