@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/oanapintoiu">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
      <a href="https://www.freecodecamp.org/opin">
-   <img src="https://d33wubrfki0l68.cloudfront.net/2f7693e1933ac514c960f51ceae72c91c6716eb2/b2efd/img/fcc_primary_small.svg" width="52" height="40" alt="FreeCodeCamp logo" />  </a>
+   <img src="https://d33wubrfki0l68.cloudfront.net/bbfa33a202e8612d49b6c1ed05c1fdd8e4001566/bbdd1/img/fcc_secondary_small.svg" width="52" height="40" alt="FreeCodeCamp logo" />  </a>
 </div>
 
 
