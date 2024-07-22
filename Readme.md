@@ -5,12 +5,12 @@
 <p align="left">My name is Oana (Wah'nah) and I'm a software developer with a background in transformational project management.</p>
 <div align="left">
   <a href="https://www.linkedin.com/in/oanapintoiu">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-     <a href="https://www.freecodecamp.org/opin">
-   <img src="https://d33wubrfki0l68.cloudfront.net/bbfa33a202e8612d49b6c1ed05c1fdd8e4001566/bbdd1/img/fcc_secondary_small.svg" width="52" height="40" alt="FreeCodeCamp logo" />  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo"  />  </a>
+   <a href="https://github.com/oanapintoiu/oanapintoiu_github_cv/blob/main/README.md">
+     <img src="https://img.shields.io/badge/Github-CV-black" width="auto" height="30" alt="Github CV" />  </a>
+ <a href="">
+     <img src="https://img.shields.io/badge/Resume-darkgreen" width="auto" height="30" alt="resume" />  </a>
 </div>
-
-
 
 ###
 
