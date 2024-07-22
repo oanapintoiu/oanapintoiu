@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Oana (Wah'nah) and I'm a software developer with a background in transformational project management.</p>
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/oanapintoiu">
     <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo"  />  </a>
    <a href="https://github.com/oanapintoiu/oanapintoiu_github_cv/blob/main/README.md">
