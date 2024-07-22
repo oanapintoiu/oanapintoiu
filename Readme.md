@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/oanapintoiu">
     <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo"  />  </a>
    <a href="https://github.com/oanapintoiu/oanapintoiu_github_cv/blob/main/README.md">
-     <img src="https://img.shields.io/badge/Github-CV-black" width="auto" height="30" alt="Github CV" />  </a>
+     <img src="https://img.shields.io/badge/GitHub-CV-black" width="auto" height="30" alt="Github CV" />  </a>
  <a href="https://drive.google.com/file/d/1zr43xarGTckWUPAcv0LxZB6UaC1S-Iph/view?usp=sharing">
      <img src="https://img.shields.io/badge/Resume-darkgreen" width="auto" height="30" alt="resume" />  </a>
 </div>
