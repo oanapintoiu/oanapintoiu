@@ -67,7 +67,7 @@
 
 <h2 align="left">📁 Projects:</h2>
 
-| Project                 | Status       | Description                  | Technologies    | 
+| Project                 | Type         | Description                  | Technologies    | 
 |-------------------------|--------------|------------------------------|-----------------|
 | [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)| Group | A web app that enables users to sign up, login, update their profiles, create study groups based on interests and level of knowledge. Users can join, leave, and delete groups and within their chat group, they can access Sheldon AI for support. | MongoDB, Express, React, Node.js, OpenAI API, HTML, CSS, JavaScript, Jest, Cypress |
 | [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group | A social media web app that enables users to sign up, login, update their photos, write, edit, like other posts, and delete their own posts. | MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Jest, Cypress |
