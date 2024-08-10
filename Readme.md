@@ -73,7 +73,7 @@
 | [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group| A social media web app, developed as a group project, that enables users to sign up, log in, update their photos, write, edit, like other posts, and delete their own posts. | MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Jest, Cypress | 
 | [Bank Tech Test](https://github.com/oanapintoiu/bank_tech_test) | Solo| A program that offers core bank features including deposit/withdraw and print formatted statements. | JavaScript, Node, Jest |
 | [Gradebook App](https://github.com/oanapintoiu/gradebook_app) |Solo| A simple gradebook app that can calculate an average, cover a number range into a letter, check if a student passed or failed, and print out a message. | JavaScript, Node, Jest |
-| [Cafe Menu (Repo)](https://github.com/oanapintoiu/cafe_menu) <br> [View Live Site](https://oanapintoiu.github.io/cafe_menu/)| Solo| A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal. | HTML, CSS |
+| [Cafe Menu](https://github.com/oanapintoiu/cafe_menu) <br><br> <a href="https://oanapintoiu.github.io/cafe_menu/" target="_blank">&lt; Live Site /&gt;</a>| Solo| A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal. | HTML, CSS |
 
 ###
 
