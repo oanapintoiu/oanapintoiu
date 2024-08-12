@@ -69,6 +69,8 @@
 
 | Project                 | Type | Description            | Technologies    | 
 |-------------------------|------|------------------------|-----------------|
+
+| [Portfolio Website](https://github.com/oanapintoiu/portfolio_website) [(Live Site)](https://oanapintoiu.github.io/portfolio_website/) | Solo | This repository contains the source code for my portfolio website, showcasing my professional portfolio, including projects, contact information, and links to social media profiles. It is designed to be visually appealing, interactive, and responsive. |Node, Express, HTML, CSS, JS|
 | [Pokemon API](https://github.com/oanapintoiu/pokemon_api) [(Live Site)](https://oanapintoiu.github.io/pokemon_api/) | Solo | This repository contains a simple web application that allows users to search for Pokémon by name or ID using the Pokémon API. The application retrieves and displays various details about the Pokémon, including its stats, types, and sprite. |HTML, CSS, JavaScript, RESTful API|
 | [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)| Group| This web app allows users to sign up, log in, and update their profiles. It enables them to create study groups based on their interests and level of knowledge. Users can join, leave, and delete groups as needed. Within their chat groups, they can also access Sheldon AI for additional support.| MongoDB, Express, React, Node.js, OpenAI API, HTML, CSS, JavaScript, Jest, Cypress | 
 | [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group| A social media web app, developed as a group project, that enables users to sign up, log in, update their photos, write, edit, like other posts, and delete their own posts. | MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Jest, Cypress | 
