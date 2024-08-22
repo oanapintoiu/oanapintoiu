@@ -5,11 +5,11 @@
 <p align="left">My name is Oana (Wah'nah) and I'm a software developer with a background in transformational project management.</p>
 <div align="center">
   <a href="https://www.linkedin.com/in/oanapintoiu">
-    <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo"  />  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue" width="auto" height="30" alt="linkedin logo" /></a>
    <a href="https://github.com/oanapintoiu/oanapintoiu_github_cv/blob/main/README.md">
-     <img src="https://img.shields.io/badge/GitHub-CV-black" width="auto" height="30" alt="Github CV" />  </a>
+     <img src="https://img.shields.io/badge/GitHub-CV-black" width="auto" height="30" alt="Github CV" /></a>
  <a href="https://drive.google.com/file/d/1zr43xarGTckWUPAcv0LxZB6UaC1S-Iph/view?usp=sharing">
-     <img src="https://img.shields.io/badge/Resume-darkgreen" width="auto" height="30" alt="resume" />  </a>
+     <img src="https://img.shields.io/badge/Resume-darkgreen" width="auto" height="30" alt="resume" /></a>
 </div>
 
 ###
@@ -26,8 +26,7 @@
 
 <div align="center">
   <a href="https://www.freecodecamp.org/opin">
-   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" width="auto" height="30" alt="freeccodecamp logo" />   
-       </a>
+   <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" width="auto" height="30" alt="freeccodecamp logo" /></a>
      <img src="https://img.shields.io/freecodecamp/points/opin" width="auto" height="30" alt="freeccodecamp logo" /> 
 </div>
  
@@ -70,13 +69,13 @@
 
 | Project                 | Type | Description            | Technologies    | 
 |-------------------------|------|------------------------|-----------------|
-| [Portfolio site](https://github.com/oanapintoiu/portfolio_website) [(Live Site)](https://oanapintoiu.onrender.com/) | Solo | This repository contains the source code for my portfolio website, showcasing my professional portfolio, including projects, contact information, and links to social media profiles. It is designed to be visually appealing, interactive, and responsive. |Node, Express, HTML, CSS, JS|
-| [Pokemon API](https://github.com/oanapintoiu/pokemon_api) [(Live Site)](https://oanapintoiu.github.io/pokemon_api/) | Solo | This repository contains a simple web application that allows users to search for Pokémon by name or ID using the Pokémon API. The application retrieves and displays various details about the Pokémon, including its stats, types, and sprite. |HTML, CSS, JavaScript, RESTful API|
-| [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)| Group| This web app allows users to sign up, log in, and update their profiles. It enables them to create study groups based on their interests and level of knowledge. Users can join, leave, and delete groups as needed. Within their chat groups, they can also access Sheldon AI for additional support.| MongoDB, Express, React, Node.js, OpenAI API, HTML, CSS, JavaScript, Jest, Cypress | 
-| [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group| A social media web app, developed as a group project, that enables users to sign up, log in, update their photos, write, edit, like other posts, and delete their own posts. | MongoDB, Express, React, Node.js, HTML, CSS, JavaScript, Jest, Cypress | 
+| [Portfolio site](https://github.com/oanapintoiu/portfolio_website) [(Live Site)](https://oanapintoiu.onrender.com/) | Solo | This repository contains the source code for my portfolio website, showcasing my projects, links to social media profiles, resume, and a functional contact form. It is designed to be visually appealing, interactive, and responsive. |JavaScript, RESTful API, Node, Express, HTML, CSS, |
+| [Pokemon API](https://github.com/oanapintoiu/pokemon_api) [(Live Site)](https://oanapintoiu.github.io/pokemon_api/) | Solo | This repository contains a simple web application that allows users to search for Pokémon by name or ID using the Pokémon API. The application retrieves and displays various details about the Pokémon, including its stats, types, and sprite. |JavaScript, RESTful API, HTML, CSS|
+| [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)| Group| This web app allows users to sign up, log in, and update their profiles. It enables them to create study groups based on their interests and level of knowledge. Users can join, leave, and delete groups as needed. Within their chat groups, they can also access Sheldon AI for additional support.| JavaScript, OpenAI API, MongoDB, Express, React, Node.js, HTML, CSS, Jest, Cypress | 
+| [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group| A social media web app, developed as a group project, that enables users to sign up, log in, update their photos, write, edit, like other posts, and delete their own posts. |JavaScript, MongoDB, Express, React, Node.js, HTML, CSS, Jest, Cypress | 
 | [Bank Tech Test](https://github.com/oanapintoiu/bank_tech_test) | Solo| A program that offers core bank features including deposit/withdraw and print formatted statements. | JavaScript, Node, Jest |
 | [Gradebook App](https://github.com/oanapintoiu/gradebook_app) |Solo| A simple gradebook app that can calculate an average, cover a number range into a letter, check if a student passed or failed, and print out a message. | JavaScript, Node, Jest |
-| [Cafe Menu](https://github.com/oanapintoiu/cafe_menu) [(Live Site)](https://oanapintoiu.github.io/cafe_menu/)| Solo| A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal. | HTML, CSS |
+| [Cafe Menu](https://github.com/oanapintoiu/cafe_menu) [(Live Site)](https://oanapintoiu.github.io/cafe_menu/)| Solo| A cafe menu concept designed to be a simple, elegant representation of a cafe's offerings. The design features a modern layout with icons and a background image to enhance the visual appeal. | HTML, CSS |   
 
 ###
 
