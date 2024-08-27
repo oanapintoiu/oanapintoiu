@@ -10,6 +10,10 @@
      <img src="https://img.shields.io/badge/GitHub-CV-black" width="auto" height="30" alt="Github CV" /></a>
  <a href="https://drive.google.com/file/d/1zr43xarGTckWUPAcv0LxZB6UaC1S-Iph/view?usp=sharing">
      <img src="https://img.shields.io/badge/Resume-darkgreen" width="auto" height="30" alt="resume" /></a>
+ <a href="https://oanapintoiu.onrender.com">
+     <img src="https://img.shields.io/badge/Portfolio_Website-%23FF7F50" width="auto" height="30" alt="Portfolio Website" /></a>
+  
+
 </div>
 
 ###
