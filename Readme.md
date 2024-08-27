@@ -12,8 +12,6 @@
      <img src="https://img.shields.io/badge/Resume-darkgreen" width="auto" height="30" alt="resume" /></a>
  <a href="https://oanapintoiu.onrender.com">
      <img src="https://img.shields.io/badge/Portfolio_Website-%23FF6347" width="auto" height="30" alt="Portfolio Website" /></a>
-  
-
 </div>
 
 ###
