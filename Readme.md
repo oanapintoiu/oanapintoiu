@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br>📚 Currently delving deeper into Javascript...<br>📚... and having fun with CSS.<br>🎯 Goals: Create more, break less.<br>🎲 Fun fact: Led a well-being team serving 4.5k employees.</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 Currently exploring Python...<br>📚... and having fun with CSS.<br>🎯 Goals: Create more, break less.<br>🎲 Fun fact: Led a well-being team serving 4.5k employees.</p>
 
 ###
 
@@ -53,7 +53,7 @@
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" width="auto" height="30"/> 
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" width="auto" height="30"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" width="auto" height="30"/>
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="auto" height="30"/>
       <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" width="auto" height="30"/>
    </div>
 
