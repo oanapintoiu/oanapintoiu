@@ -31,6 +31,11 @@
    <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" width="auto" height="30" alt="freeccodecamp logo" /></a>
      <img src="https://img.shields.io/freecodecamp/points/opin" width="auto" height="30" alt="freeccodecamp logo" /> 
 </div>
+<div align="center">
+  <a href="https://www.codewars.com/users/noname2">
+   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" width="auto" height="30" alt="freeccodecamp logo" /></a>
+     <img src="https://www.codewars.com/users/noname2/badges/micro" width="auto" height="30" alt="freeccodecamp logo" /> 
+</div>
  
   
 ###
