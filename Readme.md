@@ -34,7 +34,7 @@
 <div align="center">
   <a href="https://www.codewars.com/users/noname2">
    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" width="auto" height="30" alt="freeccodecamp logo" /></a>
-     <img src="https://www.codewars.com/users/noname2/badges/micro" width="auto" height="30" alt="freeccodecamp logo" /> 
+     <img src="https://www.codewars.com/users/noname2/badges/micro" width="150" height="30" alt="freeccodecamp logo" /> 
 </div>
  
   
