@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023.<br>📚 Currently exploring Python...<br>📚... and having fun with CSS.<br>🎯 Goals: Create more, break less.<br>🎲 Fun fact: Led a well-being team serving 4.5k employees.</p>
+<p align="left">✨ Creating bugs since 2023.<br>📚 Currently exploring Python...<br>📚... and having fun with Tailwind CSS.<br>🎯 Goals: Create more, break less.</p>
 
 ###
 
@@ -47,19 +47,20 @@
 <div align="center">
  <div>
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="auto" height="30"/>  
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" width="auto" height="30"/>
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" width="auto" height="30"/> 
+   </div>
+  
+   <div>
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="django" width="auto" height="30"/>
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="auto" height="30"/>
       <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="express.js" width="auto" height="30"/>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" width="auto" height="30"/>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js" width="auto" height="30"/>
-   </div>
-  
-   <div>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" width="auto" height="30"/>  
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" width="auto" height="30"/> 
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" width="auto" height="30"/>
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" width="auto" height="30"/>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="auto" height="30"/>
-      <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby" width="auto" height="30"/>
    </div>
 
 ###
@@ -76,7 +77,8 @@
 
 | Project                 | Type | Description            | Technologies    | 
 |-------------------------|------|------------------------|-----------------|
-| [Portfolio Site](https://github.com/oanapintoiu/portfolio_website) [(Live Site)](https://oanapintoiu.onrender.com/) | Solo | This repository contains the source code for my portfolio website, showcasing my projects, links to social media profiles, resume, and a functional contact form. It is designed to be visually appealing, interactive, and responsive. |JavaScript, RESTful API, Node, Express, HTML, CSS, |
+| [Portfolio Site](https://github.com/oanapintoiu/portfolio_website) [(Live Site)](https://oanapintoiu.onrender.com/) | Solo | This repository contains the source code for my portfolio website, showcasing my projects, links to social media profiles, resume, and a functional contact form. It is designed to be visually appealing, interactive, and responsive. |JavaScript, RESTful API, Node, Express, HTML, CSS |
+| [Tebby Bear Corner](https://github.com/oanapintoiu/tebby_bear_corner/tree/main) | Solo | Project created using Python, Django, and Tailwind to resemble a marketplace where users can put their old teddy bears up for sale. Users can currently sign up, sign in, log out, view their dashboard, add and update items using image, price, description, category, search for items, and more |Python, Django, Tailwind CSS |
 | [Pokemon API](https://github.com/oanapintoiu/pokemon_api) [(Live Site)](https://oanapintoiu.github.io/pokemon_api/) | Solo | This repository contains a simple web application that allows users to search for Pokémon by name or ID using the Pokémon API. The application retrieves and displays various details about the Pokémon, including its stats, types, and sprite. |JavaScript, RESTful API, HTML, CSS|
 | [Study Buddy](https://github.com/oanapintoiu/study_buddy_v2_op)| Group| This web app allows users to sign up, log in, and update their profiles. It enables them to create study groups based on their interests and level of knowledge. Users can join, leave, and delete groups as needed. Within their chat groups, they can also access Sheldon AI for additional support.| JavaScript, OpenAI API, MongoDB, Express, React, Node.js, HTML, CSS, Jest, Cypress | 
 | [Moangoose](https://github.com/oanapintoiu/moangoose-mern) | Group| A social media web app, developed as a group project, that enables users to sign up, log in, update their photos, write, edit, like other posts, and delete their own posts. |JavaScript, MongoDB, Express, React, Node.js, HTML, CSS, Jest, Cypress | 
